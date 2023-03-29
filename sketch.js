@@ -5,9 +5,13 @@ function preload(){
 }
 
 function setup(){
-  
+  //Configurar jogo
+
+ 
 }
 
 function draw() {
+
+  drawSprites()
     
 }

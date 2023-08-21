@@ -26,3 +26,7 @@ function draw() {
   drawSprites();
     
 }
+
+function gerarInimigos(){
+  
+}
